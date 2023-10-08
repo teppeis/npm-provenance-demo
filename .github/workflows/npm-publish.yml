@@ -1,7 +1,7 @@
 name: Publish package to npm
 on:
   release:
-    types: [created]
+    types: [published]
   workflow_dispatch:
 jobs:
   build:
