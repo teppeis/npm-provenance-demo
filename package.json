@@ -1,0 +1,16 @@
+{
+  "name": "@teppeis/npm-provenance-demo",
+  "version": "1.0.0",
+  "description": "",
+  "keywords": [],
+  "license": "MIT",
+  "author": "Teppei Sato <teppeis@gmail.com>",
+  "main": "index.js",
+  "scripts": {
+    "build": "echo \"empty build\"",
+    "test": "echo \"empty test\""
+  },
+  "publishConfig": {
+    "access": "public"
+  }
+}
