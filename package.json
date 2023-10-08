@@ -5,7 +5,7 @@
   "keywords": [],
   "repository": {
     "type": "git",
-    "url": "https://github.com/teppeis/npm-provenance-demo.git"
+    "url": "git+https://github.com/teppeis/npm-provenance-demo.git"
   },
   "license": "MIT",
   "author": "Teppei Sato <teppeis@gmail.com>",
