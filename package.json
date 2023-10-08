@@ -3,6 +3,7 @@
   "version": "1.0.0",
   "description": "",
   "keywords": [],
+  "repository": "teppeis/npm-provenance-demo",
   "license": "MIT",
   "author": "Teppei Sato <teppeis@gmail.com>",
   "main": "index.js",
