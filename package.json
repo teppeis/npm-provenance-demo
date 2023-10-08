@@ -6,6 +6,7 @@
   "license": "MIT",
   "author": "Teppei Sato <teppeis@gmail.com>",
   "main": "index.js",
+  "files": [],
   "scripts": {
     "build": "echo \"empty build\"",
     "test": "echo \"empty test\""
